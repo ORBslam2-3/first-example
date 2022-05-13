@@ -1,0 +1,2 @@
+leaning_comunication:test02
+-DCATKIN_DEVEL_PREFIX=/home/wangxudong/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wangxudong/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/wangxudong/catkin_ws/devel
+
+Name: test02
+Description: Description of test02
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

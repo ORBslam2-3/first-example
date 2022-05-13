@@ -1,0 +1,8 @@
+prefix=/home/wangxudong/catkin_ws/install
+
+Name: leaning_comunication
+Description: Description of leaning_comunication
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime
